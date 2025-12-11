@@ -3,6 +3,3 @@ name: nginx # chart name
 version: 1.0.0 # chart version
 description: nginx heml chart
 appVersion: latest # this is application version 
-
-
-
